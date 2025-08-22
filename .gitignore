@@ -1,0 +1,4 @@
+*.pyc
+data/
+bert-base-uncased-sentiment-model
+bert_base_train_dir
